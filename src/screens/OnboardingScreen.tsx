@@ -62,7 +62,7 @@ const slides: Slide[] = [
     image: images.onboard3,
     title: 'The whole venue, in your pocket',
     body:
-      'Browse the Shorelines events calendar and send table-side food and drink requests to the floor team while you play.',
+      'Browse the Perfect Frame Club events calendar and send table-side food and drink requests to the floor team while you play.',
     cta: 'Enter the club',
     imageRatio: 1.16,
   },
@@ -189,7 +189,7 @@ export function OnboardingScreen({ navigation }: Props): React.JSX.Element {
               bounces={false}>
               <View style={styles.artArea}>
                 <LinearGradient
-                  colors={['rgba(59,130,246,0.2)', 'rgba(59,130,246,0)']}
+                  colors={['rgba(52,160,105,0.2)', 'rgba(52,160,105,0)']}
                   style={[
                     styles.artGlow,
                     { width: imageSize * 1.3, height: imageSize * 1.3, borderRadius: imageSize },

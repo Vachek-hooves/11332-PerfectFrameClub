@@ -101,7 +101,7 @@ export function ProfileScreen({ navigation }: Props): React.JSX.Element {
               onChangeText={value => setMemberNumber(value.replace(/\D/g, '').slice(0, 8))}
               keyboardType="number-pad"
               maxLength={8}
-              hint="Printed on your physical Shorelines card."
+              hint="Printed on your physical Perfect Frame Club card."
               style={styles.field}
             />
           </Reveal>

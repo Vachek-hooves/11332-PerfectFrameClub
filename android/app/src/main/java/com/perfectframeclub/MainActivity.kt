@@ -1,4 +1,4 @@
-package com.shorelines.snookerclub
+package com.perfectframeclub
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

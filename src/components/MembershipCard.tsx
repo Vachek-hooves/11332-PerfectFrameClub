@@ -41,8 +41,8 @@ export function MembershipCard({
             <View style={styles.brandRow}>
               <Image source={images.logo} style={styles.brandMarkSmall} resizeMode="contain" />
               <View style={styles.brandText}>
-                <Text style={[typography.label, styles.brandTitle]}>SHORELINES</Text>
-                <Text style={[typography.tiny, styles.brandSub]}>SNOOKER CLUB</Text>
+                <Text style={[typography.label, styles.brandTitle]}>Perfect Frame Club</Text>
+                <Text style={[typography.tiny, styles.brandSub]}>SNOOKER</Text>
               </View>
             </View>
             <Badge
@@ -54,7 +54,7 @@ export function MembershipCard({
           <Text style={[typography.body, styles.inactiveCopy]}>
             {isPending
               ? 'Your activation code has been generated. Show it at the front desk and a member of staff will confirm your tier.'
-              : 'Your digital tier card is waiting for activation by Shorelines staff.'}
+              : 'Your digital tier card is waiting for activation by Perfect Frame Club staff.'}
           </Text>
 
           <GradientButton
@@ -100,8 +100,8 @@ export function MembershipCard({
               <Image source={images.logo} style={styles.brandMark} resizeMode="contain" />
             </View>
             <View style={styles.brandText}>
-              <Text style={[typography.label, styles.brandTitle]}>SHORELINES</Text>
-              <Text style={[typography.tiny, styles.brandSub]}>SNOOKER CLUB</Text>
+              <Text style={[typography.label, styles.brandTitle]}>Perfect Frame Club</Text>
+              <Text style={[typography.tiny, styles.brandSub]}>SNOOKER</Text>
             </View>
           </View>
           <Badge label="Active" tone="success" />
@@ -189,11 +189,11 @@ const styles = StyleSheet.create({
   },
   brandMark: {
     width: scale(28),
-    height: scale(18),
+    height: scale(28),
   },
   brandMarkSmall: {
     width: scale(34),
-    height: scale(22),
+    height: scale(34),
   },
   brandText: {
     marginLeft: scale(9),

@@ -67,7 +67,7 @@ export const menuItems: MenuItem[] = [
   },
   {
     id: 'menu-09',
-    name: 'Shorelines club burger',
+    name: 'Perfect Frame Club club burger',
     category: 'Burgers',
     description: 'Beef patty, aged cheddar, lettuce, tomato, pickles, house sauce',
     price: 21,

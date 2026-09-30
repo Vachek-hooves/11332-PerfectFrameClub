@@ -1,4 +1,4 @@
-package com.shorelines.snookerclub
+package com.perfectframeclub
 
 import android.app.Application
 import com.facebook.react.PackageList

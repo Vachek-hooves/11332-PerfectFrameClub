@@ -129,7 +129,7 @@ export function MenuScreen(): React.JSX.Element {
           { paddingBottom: scale(layout.tabBarHeight + 16) + insets.bottom },
         ]}>
         <LinearGradient
-          colors={['rgba(5,10,20,0)', 'rgba(5,10,20,0.9)', '#050A14']}
+          colors={['rgba(6,26,19,0)', 'rgba(6,26,19,0.9)', '#061A13']}
           style={styles.trayFade}
           pointerEvents="none"
         />

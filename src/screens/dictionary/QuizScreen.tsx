@@ -387,7 +387,7 @@ export function QuizScreen({ navigation }: Props): React.JSX.Element {
 
       <View style={[styles.tray, { paddingBottom: Math.max(insets.bottom, scale(12)) }]}>
         <LinearGradient
-          colors={['rgba(5,10,20,0)', 'rgba(5,10,20,0.94)', '#050A14']}
+          colors={['rgba(6,26,19,0)', 'rgba(6,26,19,0.94)', '#061A13']}
           style={styles.trayFade}
           pointerEvents="none"
         />

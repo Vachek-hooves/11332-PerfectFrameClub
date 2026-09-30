@@ -267,7 +267,7 @@ export function LessonScreen({ route, navigation }: Props): React.JSX.Element {
 
       <View style={[styles.footer, { paddingBottom: Math.max(insets.bottom, scale(14)) }]}>
         <LinearGradient
-          colors={['rgba(5,10,20,0)', 'rgba(5,10,20,0.92)', '#050A14']}
+          colors={['rgba(6,26,19,0)', 'rgba(6,26,19,0.92)', '#061A13']}
           style={styles.footerFade}
           pointerEvents="none"
         />

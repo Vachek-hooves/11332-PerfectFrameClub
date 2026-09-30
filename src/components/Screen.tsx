@@ -31,7 +31,7 @@ export function Screen({
       />
       {glow ? (
         <LinearGradient
-          colors={['rgba(59,130,246,0.16)', 'rgba(59,130,246,0)']}
+          colors={['rgba(52,160,105,0.16)', 'rgba(52,160,105,0)']}
           start={{ x: 0.1, y: 0 }}
           end={{ x: 0.9, y: 1 }}
           style={styles.glow}

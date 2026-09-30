@@ -39,7 +39,7 @@ export function TabBar({
         { paddingBottom: Math.max(insets.bottom, scale(10)) },
       ]}>
       <LinearGradient
-        colors={['rgba(5,10,20,0)', 'rgba(5,10,20,0.9)', '#050A14']}
+        colors={['rgba(6,26,19,0)', 'rgba(6,26,19,0.9)', '#061A13']}
         start={{ x: 0.5, y: 0 }}
         end={{ x: 0.5, y: 1 }}
         style={styles.fade}

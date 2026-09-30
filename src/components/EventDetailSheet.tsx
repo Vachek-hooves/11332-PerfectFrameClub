@@ -32,7 +32,7 @@ export function EventDetailSheet({
     }
     try {
       await Share.share({
-        message: `${event.title} — ${event.dateLabel}, ${event.timeLabel}. ${event.venue}. Shorelines Snooker Club.`,
+        message: `${event.title} — ${event.dateLabel}, ${event.timeLabel}. ${event.venue}. Perfect Frame Club.`,
       });
       setShareNote(null);
     } catch {

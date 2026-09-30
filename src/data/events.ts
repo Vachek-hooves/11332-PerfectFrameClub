@@ -25,7 +25,7 @@ export const clubEvents: ClubEvent[] = [
     venue: 'Belleville / Peterborough / Thousand Islands',
     detail: 'Saturday event · September series',
     description:
-      'A Saturday evening event running throughout September at participating Shorelines locations. Eligible Great Canadian Rewards members can unlock the promotional U-Spin after meeting the required play conditions.',
+      'A Saturday evening event running throughout September at participating Perfect Frame Club locations. Eligible Great Canadian Rewards members can unlock the promotional U-Spin after meeting the required play conditions.',
     tournament: false,
   },
   {
@@ -48,10 +48,10 @@ export const clubEvents: ClubEvent[] = [
     dateLabel: 'Saturday 19 September',
     isoDate: '2026-09-19T15:00:00',
     timeLabel: '15:00 – 18:00',
-    venue: 'Shorelines Thousand Islands · Gananoque',
-    detail: 'Quarter-final · Shorelines regional stage',
+    venue: 'Perfect Frame Club Thousand Islands · Gananoque',
+    detail: 'Quarter-final · Perfect Frame Club regional stage',
     description:
-      'The 2026 Great Canadian Slot Classic reaches Shorelines Thousand Islands with an official quarter-final event. Across the three Shorelines qualifying events, 24 top finishers advance to the semifinal at Pickering Resort.',
+      'The 2026 Great Canadian Slot Classic reaches Perfect Frame Club Thousand Islands with an official quarter-final event. Across the three Perfect Frame Club qualifying events, 24 top finishers advance to the semifinal at Pickering Resort.',
     format: 'Quarter-final · 24 finishers advance',
     tournament: true,
   },
@@ -63,7 +63,7 @@ export const clubEvents: ClubEvent[] = [
     dateLabel: 'Friday 25 September',
     isoDate: '2026-09-25T17:00:00',
     timeLabel: '17:00 – 20:00',
-    venue: 'Participating Shorelines',
+    venue: 'Participating Perfect Frame Club',
     detail: 'Four scheduled draws',
     description:
       'The September Possibilities+ campaign concludes with four draws and year-long prize packages that may include lottery tickets, concert tickets or dining vouchers.',
@@ -71,16 +71,16 @@ export const clubEvents: ClubEvent[] = [
   },
   {
     id: 'event-06',
-    title: 'Live Music at Shorelines Belleville',
+    title: 'Live Music at Perfect Frame Club Belleville',
     category: 'Live music',
     badge: 'Weekly',
     dateLabel: 'Weekly · schedule varies',
     isoDate: '2026-09-26T20:00:00',
     timeLabel: 'Schedule varies',
-    venue: 'Shorelines Belleville',
+    venue: 'Perfect Frame Club Belleville',
     detail: 'Local & guest performers',
     description:
-      'Regular live music is part of the entertainment programme at Shorelines Belleville. The official Shorelines page describes performances by local and guest artists covering styles from soul and jazz to rock. The site currently identifies the programme as weekly without publishing one fixed performer or time for every date.',
+      'Regular live music is part of the entertainment programme at Perfect Frame Club Belleville. The official Perfect Frame Club page describes performances by local and guest artists covering styles from soul and jazz to rock. The site currently identifies the programme as weekly without publishing one fixed performer or time for every date.',
     tournament: false,
   },
   {
@@ -90,10 +90,10 @@ export const clubEvents: ClubEvent[] = [
     dateLabel: 'Saturday 3 October',
     isoDate: '2026-10-03T15:00:00',
     timeLabel: '15:00 – 18:00',
-    venue: 'Shorelines Belleville',
-    detail: 'Quarter-final · Shorelines regional stage',
+    venue: 'Perfect Frame Club Belleville',
+    detail: 'Quarter-final · Perfect Frame Club regional stage',
     description:
-      'The regional tournament continues in Belleville with another three-hour competition session. Qualified Shorelines players compete for advancement toward the November semifinal at Pickering Resort.',
+      'The regional tournament continues in Belleville with another three-hour competition session. Qualified Perfect Frame Club players compete for advancement toward the November semifinal at Pickering Resort.',
     format: 'Quarter-final · three-hour session',
     tournament: true,
   },
@@ -104,10 +104,10 @@ export const clubEvents: ClubEvent[] = [
     dateLabel: 'Saturday 17 October',
     isoDate: '2026-10-17T16:00:00',
     timeLabel: '16:00 – 19:00',
-    venue: 'Shorelines Peterborough',
-    detail: 'Quarter-final · final Shorelines stop',
+    venue: 'Perfect Frame Club Peterborough',
+    detail: 'Quarter-final · final Perfect Frame Club stop',
     description:
-      'Peterborough hosts the third listed Shorelines stage of the 2026 tournament series, completing the regional Shorelines schedule before the semifinal round at Pickering.',
+      'Peterborough hosts the third listed Perfect Frame Club stage of the 2026 tournament series, completing the regional Perfect Frame Club schedule before the semifinal round at Pickering.',
     format: 'Quarter-final · final regional stage',
     tournament: true,
   },
@@ -142,7 +142,7 @@ export const clubEvents: ClubEvent[] = [
   },
   {
     id: 'event-11',
-    title: 'Shorelines Open Snooker Cup',
+    title: 'Perfect Frame Club Open Snooker Cup',
     category: 'Tournament',
     badge: 'Registration open',
     dateLabel: 'Saturday 24 October',
