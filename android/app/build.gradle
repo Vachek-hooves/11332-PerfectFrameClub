@@ -79,7 +79,7 @@ android {
 
     namespace "com.perfectframeclub"
     defaultConfig {
-        applicationId "com.perfectframeclub"
+        applicationId "com.test.project" // TEST SANDBOX — real value: com.perfectframeclub
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
